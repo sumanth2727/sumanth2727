@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sumanthnagabhairu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://leetcode.com/SumanthN27/" target="_blank">
+    <img src="https://www.google.com/searchsca_esv=588873340&sxsrf=AM9HkKmjIm1XneYwNdePNzqWC3ouIrOh_Q:1701997267560&q=leetcode&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj3oKr00f6CAxXtjIkEHd6jBC8Q0pQJegQIDBAB#imgrc=cQ8rt18AHdsZYM" height="25" alt="leetcode logo"  />
   </a>
 </div>
 
