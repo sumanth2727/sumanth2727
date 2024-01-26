@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/SumanthN27/" target="_blank">
-    <img src="https://images.app.goo.gl/jQkRfwemT1sL2K4H7" height="25" alt="LeetCode logo" />
+    <img src="https://via.placeholder.com/25" height="25" alt="LeetCode logo" />
   </a>
 </div>
 
