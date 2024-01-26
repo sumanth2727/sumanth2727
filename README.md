@@ -47,13 +47,11 @@
 <br clear="both">
 
 <p align="left"><br><br>
-Dedicated and forward-thinking Computer Science professional with a Master's degree from Stevens Institute of Technology. Proficient in C, Java, Python, and R, I bring a blend of academic excellence and practical experience to the world of software development.
+Dedicated and forward-thinking Computer Science professional with a Master's degree from Stevens Institute of Technology. Mastered data structures and algorithms using Java and Python. Proficient in building multi-cloud solutions using AWS and Azure, with expertise in data engineering and ETL. I bring a blend of academic excellence and practical experience to the world of software development.
 
 My tenure as a Software Engineer at Capgemini provided valuable experience in cloud technologies, machine learning, scalable application implementation, and data engineering, focusing on Azure and AWS. During my time at Capgemini, I Engineered and deployed cloud-based solutions on AWS and Azure for a prominent e-commerce platform, resulting in a 40% boost in system reliability and a significant 25% reduction in operational costs. Led the migration of Oracle databases to AWS, enhancing overall efficiency. My commitment to staying ahead of technology trends is underscored by my achievement of the AWS Certified Developer - Associate certification.
 
 During my tenure at Infosys India as a Software Intern, I completed the Infosys Campus Connect foundation program, gaining expertise in software development. I developed a secure banking application using Python and an Oracle database, focusing on database design, authentication, transaction processing, error handling, and security.
-
-As a Machine Learning Intern at Pantech Private Limited, I acquired skills in Anaconda Python and machine learning libraries like SciPy, Matplotlib, and Hadoop. Implemented a Book Recommendation System using collaborative filtering algorithms such as cosine similarity, Jaccard similarity, and BM25.
 
 Open to networking and exploring opportunities aligned with my expertise, I look forward to connecting and discussing how my skills, including Azure data engineering, and tech passion can bring value to your team.</p>
 
